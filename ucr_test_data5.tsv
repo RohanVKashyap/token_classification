@@ -1,0 +1,13 @@
+query	label
+I am going to the movie	"['O', 'O', 'O', 'O', 'O', 'ATTR']"
+I like the playground very very  much	"['O', 'O', 'O', 'ATTR', 'O', 'O', 'O']"
+I am going to the movie	"['O', 'O', 'O', 'O', 'O', 'ATTR']"
+I like the playground very much	"['O', 'O', 'O', 'ATTR', 'O', 'O']"
+I am going to the movie	"['O', 'O', 'O', 'O', 'O', 'ATTR']"
+I like the playground very much	"['O', 'O', 'O', 'ATTR', 'O', 'O']"
+I am going to the movie	"['O', 'O', 'O', 'O', 'O', 'ATTR']"
+I like the playground very much	"['O', 'O', 'O', 'ATTR', 'O', 'O']"
+I am going to the movie	"['O', 'O', 'O', 'O', 'O', 'ATTR']"
+I like the playground very much	"['O', 'O', 'O', 'ATTR', 'O', 'O']"
+I am going to the movie	"['O', 'O', 'O', 'O', 'O', 'ATTR']"
+I like the playground very much	"['O', 'O', 'O', 'ATTR', 'O', 'O']"

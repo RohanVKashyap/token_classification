@@ -1,0 +1,11 @@
+{
+      "model_name": "ucr_classifier_model",
+      "embedding_dim": 384,
+      "num_labels": 1,
+      "num_classes": 2,
+      "state_dict": "model_bin.pt",
+      "label2id": {
+            "ATTR": 0.0,
+            "O": 1.0
+      }
+}
